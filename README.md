@@ -4,4 +4,5 @@ With this tool, you can create an Instagram account and get its information!
 
 # contact me
 # telegram: @elegalr1der
+## email: elegalr1der@proton.me
 https://t.me/elegalr1der
